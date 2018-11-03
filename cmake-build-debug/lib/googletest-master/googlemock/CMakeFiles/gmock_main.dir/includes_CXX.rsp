@@ -1,0 +1,1 @@
+-IC:/juegoDeLaVida/lib/googletest-master/googlemock/include -IC:/juegoDeLaVida/lib/googletest-master/googlemock -IC:/juegoDeLaVida/lib/googletest-master/googletest/include -IC:/juegoDeLaVida/lib/googletest-master/googletest 
